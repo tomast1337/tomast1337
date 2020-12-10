@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Rust and OpenGl
-- 🤔 I’m looking for help with OpenGl 🤦🏽‍♀️
 - 📫 How to reach me: Twitter @NicolasVycas
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true)]()

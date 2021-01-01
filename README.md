@@ -2,11 +2,10 @@
 
 - 🌱 I’m currently learning Rust and OpenGl
 - 📫 How to reach me: Twitter @NicolasVycas
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true)]()
-
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&langs_count=5&theme=highcontrast)]()
+<div style="display: inline">
+  <img src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true" width="485">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10" width="352"> 
+</div>
 <!--
 **tomast1337/tomast1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:

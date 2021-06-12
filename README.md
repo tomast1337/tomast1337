@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning Rust and SDL2
+- 🌱 I’m currently learning C++
 
 ## 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/nicolas-vycas-nery/)

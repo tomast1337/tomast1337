@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and OpenGL
 
 ## 📫 How to reach me:
 - [Linkedin](https://www.linkedin.com/in/nicolas-vycas-nery/)

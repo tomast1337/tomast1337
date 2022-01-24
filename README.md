@@ -2,8 +2,6 @@
 
 ## about me
 
-- 🌱I’m currently learning web development with javascript
-
 - 🐧GNU/Linux daily driver and advocate
 
 ## 📫 How to reach me:

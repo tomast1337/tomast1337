@@ -1,6 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-- [Reach Me on Linkedin ](https://www.linkedin.com/in/nicolas-vycas-nery/)
+[Reach Me on Linkedin ](https://www.linkedin.com/in/nicolas-vycas-nery/)
 
 ## 🎸 Github Stats:
 <div align="center" style="display: inline">

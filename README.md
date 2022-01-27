@@ -5,22 +5,22 @@
 
 ```rust
 fn main(){
-    let name = String::from("Nicolas Nery");
-    let age = 22;
-    let roles = vec!["Student", "Software Engineer", "Intern at TCU"];
+    let my_name = String::from("Nicolas Nery");
+    let my_age = 22;
+    let my_roles = vec![
+        "Student",
+        "Software Engineer",
+        "Data Science Intern at TCU"];
     
     let your_future_data = "596f752073686f756c642068697265204e69636f6c617321";
-    /**********/println!/**/(  /**/"{:?}",(0//************/
-    /**********/..age+/*   *//*   */name.len(//***********/
-    /**********/)+age/*            */ /roles.//***********/
-    /**********/len()/*            */+roles.//************/
-    /**********/len()/*            */*2).step_by//********/
-    /**********/(roles./*        */len()-age//************/
-    /**********//age).map/*    */(|i|u8:://***************/
-    /*******/from_str_radix/**/(&your_future_data//*******/
-    /**********/[i..i+2], 16).unwrap()).collect:://*******/
-    /**********/<Vec<u8>>().iter().map(|&c| c as//********/
-    /**********/char).collect::<String>());//*************/
+    /****/println!("{}",(/**/0../**/my_age+my_name./*******/
+    /****/len()+my_age /*   *//*   */ /my_roles.len/*******/
+    /****/()+my_roles./*            */len()*2).step_by(/***/
+    /****/my_roles.len/*            */()-my_age/my_age/****/
+    /****/).map(|i|u8 /*            */::from_str_radix(&/**/
+    /**/your_future_data/*        */[i..i+2],16).unwrap(/**/
+    /****/)).collect::<Vec/*    */<u8>>().iter().map/******/
+    /****/(|&c| c as char). /**/ collect::<String>());/****/
 }
 ```
 

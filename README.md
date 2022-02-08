@@ -3,25 +3,8 @@
 <img align="right" width="200" src="https://media4.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif"/>
 <img align="left" width="200" src="https://media2.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
 
-```rust
-fn main(){
-let my_name = String::from("Nicolas Nery");
-let my_age = 22;
-let my_roles = vec![
-    "Student",
-    "Software Engineer",
-    "Data Science Intern at TCU"];
-
-let your_future_data = "596f752073686f756c642068697265204e69636f6c617321";
-/****/println!("{}",(/**/0../**/my_age+my_name./*******/
-/****/len()+my_age /*   *//*   */ /my_roles.len/*******/
-/****/()+my_roles./*            */len()*2).step_by(/***/
-/****/my_roles.len/*            */()-my_age/my_age/****/
-/****/).map(|i|u8 /*            */::from_str_radix(&/**/
-/**/your_future_data/*        */[i..i+2],16).unwrap(/**/
-/****/)).collect::<Vec/*    */<u8>>().iter().map/******/
-/****/(|&c| c as char). /**/ collect::<String>());/****/
-}
+```
+...
 ```
 
 ### Reach me on **[Linkedin](https://www.linkedin.com/in/nicolas-vycas-nery/)** or **[Twitter](https://twitter.com/NicolasVycas)**

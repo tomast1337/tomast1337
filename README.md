@@ -9,24 +9,18 @@
 ```
 
 ### Reach me on **[Linkedin](https://www.linkedin.com/in/nicolas-vycas-nery/)** or **[Twitter](https://twitter.com/NicolasVycas)**
-<div>
-<img 
-    src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true"
-    width="50%"
-    align="left"
-    >
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true"
-    width="50%"
-    align="left"
-     >
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img width="47%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
+</div>
+<div style="display: flex; align-items: center; justify-content: center;">
+<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
+    <img width="47%" align="left"src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
 </div>
 
+
 <!--
-<div style="
-    display: flex;
-    align-items: center;
-    justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
 <img width="47%" src="https://c.tenor.com/AHYlWi0X6iIAAAAC/goatmen-baphomet.gif"/>
 <img width="47%" src="https://c.tenor.com/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif"/>
@@ -400,4 +394,3 @@
 <img width="47%" src="https://c.tenor.com/YM74HxjzuJwAAAAC/spongebob-cry.gif"/>
 </div>
 -->
-

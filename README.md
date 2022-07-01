@@ -22,7 +22,7 @@
      >
 </div>
 
-
+<!--
 <div style="
     display: flex;
     align-items: center;
@@ -399,5 +399,5 @@
 <img width="47%" src="https://media.giphy.com/media/3o85xA8EitYjGGbn3y/giphy.gif"/>
 <img width="47%" src="https://c.tenor.com/YM74HxjzuJwAAAAC/spongebob-cry.gif"/>
 </div>
-
+-->
 

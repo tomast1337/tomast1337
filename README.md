@@ -8,29 +8,32 @@
 ...
 ```
 
-<h1 align="center">  Social Media </h1>
+<h1 align="center"> Social Media </h1>
 <div style="justify-content: center;">
 
-<a href="https://www.linkedin.com/in/nicolas-vycas/">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
-</a>
+    <a href="https://www.linkedin.com/in/nicolas-vycas/">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"
+            style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
+    </a>
 
-<a href="https://twitter.com/NicolasVycas">
-<img src="https://img.icons8.com/color/48/000000/twitter.png" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
-</a>
+    <a href="https://twitter.com/NicolasVycas">
+        <img src="https://img.icons8.com/color/48/000000/twitter.png"
+            style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
+    </a>
 </div>
 
 <h1 align="center"> Metrics </h1>
 <div style="display: flex; align-items: center; justify-content: center;">
     <img width="49%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
-</div>
-<div style="display: flex; align-items: center; justify-content: center;">
-<img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
+    <img width="47%" align="left"
+        src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
+    <img width="47%" align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; bottom: 0;">
-<img width="10%" align="left"  src="https://visitor-badge.glitch.me/badge?page_id=tomast1337&left_color=black&right_color=black">
+    <img width="10%" align="right"
+        src="https://visitor-badge.glitch.me/badge?page_id=tomast1337&left_color=black&right_color=black">
 </div>
 
 <!--

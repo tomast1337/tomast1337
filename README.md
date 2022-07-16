@@ -1,11 +1,15 @@
 <h1 align="center"> Hi there  </h1>
 
-```
-...
-...
-...
-...
-...
+```markdown
+## About me
++ I am currently working as a data scientist intern at Tribunal de Contas da União (TCU), mostly working with Python and PowerBI.
++ I am currently a undergraduate computer science student at the CEFET-RJ.
++ I have a technical course in IT from FAETEC-RJ technical high school.
++ I am a self-taught programmer, I started learning at 2014.
++ I have experience with various programming languages, just look my github status.
++ I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation.
++ I only use Arch Linux on my personal computers, but I also know how to use windows.
++ I am looking for a job as software developer.
 ```
 
 <h1 align="center"> Social Media </h1>
@@ -30,8 +34,8 @@
 </div>
 
 <!--
-<a href="#js-contribution-activity" >
-<h5>Go to de bottom</h5>
+<a align="right" href="#js-contribution-activity" >
+<h3>Go to de bottom</h3>
 </a>
 <div style="display: flex; align-items: center; justify-content: center;">
 <img width="47%" src="https://c.tenor.com/AHYlWi0X6iIAAAAC/goatmen-baphomet.gif"/>
@@ -408,4 +412,5 @@
 <a href="#global-nav" >
 <h5>Go to the top</h5>
 </a>
+
 -->

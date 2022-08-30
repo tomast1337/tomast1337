@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there  </h1>
 
+<img src="/githubBanner.svg" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
+
 ```markdown
 ## About me
 + I am currently working as a data scientist intern at Tribunal de Contas da União (TCU), mostly working with Python and PowerBI.

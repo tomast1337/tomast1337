@@ -11,7 +11,7 @@
 + I have experience with various programming languages, just look my github status.
 + I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation.
 + I only use Arch Linux on my personal computers, but I also know how to use windows.
-+ I am looking for a job as software developer.
++ I am looking for a job as fullstack software developer.
 ```
 
 <h1 align="center"> Social Media </h1>

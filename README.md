@@ -2,7 +2,7 @@
 
 <img src="/githubBanner.svg" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
 
-```markdown
+
 ## About me
 + I am currently working as a data scientist intern at Tribunal de Contas da União (TCU), mostly working with Python and PowerBI.
 + I am currently a undergraduate computer science student at the CEFET-RJ.
@@ -12,7 +12,7 @@
 + I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation.
 + I only use Arch Linux on my personal computers, but I also know how to use windows.
 + I am looking for a job as fullstack software developer.
-```
+
 
 <h1 align="center"> Social Media </h1>
 <div style="justify-content: center;">

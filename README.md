@@ -22,14 +22,18 @@
 </div>
 
 <h1 align="center"> Metrics </h1>
-<img width="60%" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
-<img width="60%"
-src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
-<img width="60%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
+<div style="display: flex; align-items: center; justify-content: center;">
+    <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
+    <img width="45%" align="left"
+        src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
+    <img width="45%" align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
+</div>
 
-<img width="10%"
-src="https://visitor-badge.glitch.me/badge?page_id=tomast1337&left_color=black&right_color=black">
+<div style="display: flex; align-items: center; justify-content: center; bottom: 0;">
+    <img width="10%" align="right"
+        src="https://visitor-badge.glitch.me/badge?page_id=tomast1337&left_color=black&right_color=black">
+</div>
 
 
 <!--

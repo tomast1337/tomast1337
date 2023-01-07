@@ -4,14 +4,13 @@
 
 
 ## About me
-+ I am currently working as a data scientist intern at Tribunal de Contas da União (TCU), mostly working with Python and PowerBI.
-+ I am currently a undergraduate computer science student at the CEFET-RJ.
-+ I have a technical course in IT from FAETEC-RJ technical high school.
-+ I am a self-taught programmer, I started learning at 2014.
-+ I have experience with various programming languages, just look my github status.
-+ I am a fan of the open source community, mainly the GNU/Linux and the Free Software Foundation.
-+ I only use Arch Linux on my personal computers, but I also know how to use windows.
-+ I am looking for a job as fullstack software developer.
++ I have been a programmer for 8 years and have formally studied software development since 2016.
++ I studied IT in the FAETEC technical high school, with a focus on Java software development.
++ Currently, I am studying Computer Science at CEFET/RJ.
++ I am interested in fullstack development.
++ I am an enthusiast of FOSS technologies and a user of Arch Linux since 2019. I have also been using Linux since 2016.
++ I am an intern at the Federal Court of Accounts in the Data Scientist area, working with Python, PowerBI, SQL, and other technologies.
++ I am also a part-time fullstack developer at BetaBit, working with React, NestJS, NodeJS, Typescript, PostgreSQL, AWS, and other technologies.
 
 
 <h1 align="center"> Social Media </h1>
@@ -21,7 +20,7 @@
 <a href="https://twitter.com/NicolasVycas"> <img src="https://img.icons8.com/color/48/000000/twitter.png"style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;"> </a>
 </div>
 
-<h1 align="center"> Metrics </h1>
+<h1 align="center"> Stats </h1>
 <div style="display: flex; align-items: center; justify-content: center;">
     <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
     <img width="45%" align="left"

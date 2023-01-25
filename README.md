@@ -27,6 +27,7 @@
         src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
     <img width="45%" align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide_border=true">
+    <a href="https://steamcommunity.com/id/CattleDecapitation/" target="_blank"><img align="right" src="http://steam.mmosvc.com/76561198046523908/v1.png" alt="76561198046523908" /></a>
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; bottom: 0;">

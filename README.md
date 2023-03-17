@@ -7,7 +7,7 @@
 + I have been a programmer for 8 years and have formally studied software development since 2016.
 + I studied IT in the FAETEC technical high school, with a focus on Java software development.
 + Currently, I am studying Computer Science at CEFET/RJ.
-+ I am interested in fullstack development.
++ I am a fullstack developer at BetaBit 
 + I am an enthusiast of FOSS technologies and a user of Arch Linux since 2019. I have also been using Linux since 2016.
 + I am an intern at the Federal Court of Accounts in the Data Scientist area, working with Python, PowerBI, SQL, and other technologies.
 + I am also a part-time fullstack developer at BetaBit, working with React, NestJS, NodeJS, Typescript, PostgreSQL, AWS, and other technologies.

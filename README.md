@@ -7,7 +7,7 @@
 + I'm Nicolas, and I've been a programmer for 8 years.
 + I formally started studying software development in 2016, and I studied IT at FAETEC's technical high school, with a focus on Java software development, which is a language in which I have more practice and experience.
 + Currently, I am studying Computer Science at CEFET/RJ.
-+ I am interested in fullstack development and believe that there is no uninteresting stack or business, what matters is the solution I can deliver to the problem.
++ I am interested in fullstack development.
 + My current goal is to transition from my current internship in data science at TCU, Federal Court of Accounts, to an internship or job as a software developer, which was my original career goal 8 years ago.
 + I am currently working as an intern at TCU in the Data Scientist area, where I use Python, PowerBI, SQL, and other technologies.
 + Additionally, I am a part-time fullstack developer at BetaBit, where I work with React, NestJS, NodeJS, Typescript, PostgreSQL, AWS, and other technologies.

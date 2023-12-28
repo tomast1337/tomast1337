@@ -32,8 +32,7 @@
 </div>
 
 <div style="display: flex; align-items: center; justify-content: center; bottom: 0;">
-    <img width="10%" align="right"
-        src="https://visitor-badge.glitch.me/badge?page_id=tomast1337&left_color=black&right_color=black">
+    <a href="https://u8views.com/github/tomast1337"><img src="https://u8views.com/api/v1/github/profiles/15125899/views/day-week-month-total-count.svg"></a>
 </div>
 
 

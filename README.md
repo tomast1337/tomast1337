@@ -1,15 +1,6 @@
 <h1 align="center"> Hi there  </h1>
 
 <img src="/githubBanner.svg" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
-
-
-## About me
-+ I'm Nicolas, and I've been a programmer for 8 years.
-+ I formally started studying software development in 2016, and I studied IT at FAETEC's technical high school, with a focus on Java software development, which is a language in which I have more practice and experience.
-+ Currently, I am studying Computer Science at CEFET/RJ.
-+ I have done a internship at TCU in the Data Scientist area, where I use Python, PowerBI, SQL, and other technologies.
-+ Furthermore, I have served as a part-time fullstack developer at BetaBit, contributing to projects involving technologies such as React, NestJS, NodeJS, TypeScript, PostgreSQL, AWS, and various other technologies/tools
-+ Now I'm seeking a full-time position or internship as a full-stack developer
 <!--
 .
 -->

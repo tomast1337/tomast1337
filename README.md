@@ -1,15 +1,14 @@
 <h1 align="center"> Hi there  </h1>
 
-<img src="/githubBanner.svg" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;">
+<img src="/githubBanner.svg" style=" background-color: #fff; border-radius: 50%;">
 <!--
 .
 -->
 
 <h1 align="center"> Social Media </h1>
 <div style="justify-content: center;">
-<a target="_blank" href="https://www.linkedin.com/in/nicolas-vycas/">
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;"> </a>
-<a target="_blank" href="https://twitter.com/NicolasVycas"> <img src="https://img.icons8.com/color/48/000000/twitter.png"style="height: 1.5rem; width: 1.5rem; background-color: #fff; border-radius: 50%;"> </a>
+    <a target="_blank" href="https://www.linkedin.com/in/nicolas-vycas/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="background-color: #fff; border-radius: 50%;"> </a>
+    <a target="_blank" href="https://twitter.com/NicolasVycas"> <img src="https://img.icons8.com/color/48/000000/twitter.png"style="background-color: #fff; border-radius: 50%;"> </a>
 </div>
 
 <h1 align="center"> Stats </h1>

@@ -18,6 +18,7 @@
         src="https://github-readme-stats.vercel.app/api/?username=tomast1337&count_private=true&theme=highcontrast&showicons=true&include_all_commits=true&hide_border=true">
     <img width="45%" align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomast1337&layout=compact&theme=highcontrast&langs_count=10&hide=jupyter%20notebook&hide_border=true">
+      <img  width="45%" align="right" src="https://github.com/user-attachments/assets/3ac83176-dd83-4d40-857b-b1f9a6d25226">
    <!-- 
      <a href="https://steamcommunity.com/id/CattleDecapitation/" target="_blank"><img align="right" width="45%"  src="http://steam.mmosvc.com/76561198046523908/v1.png" alt="76561198046523908" /></a>
     -->

@@ -3,8 +3,6 @@
     <a target="_blank" href="https://www.linkedin.com/in/nicolas-vycas/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="background-color: #fff; border-radius: 50%;"> </a>
     <a target="_blank" href="https://twitter.com/NicolasVycas"> <img src="https://img.icons8.com/color/48/000000/twitter.png"style="background-color: #fff; border-radius: 50%;"> </a>
 </div>
-
-<h1 align="center"> Stats </h1>
 <div style="display: flex; align-items: center; justify-content: center;">
     <img width="45%" align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
     <img width="45%" align="left"

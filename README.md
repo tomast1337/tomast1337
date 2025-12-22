@@ -1,11 +1,4 @@
-<h1 align="center"> Hi there  </h1>
-
-<img src="/githubBanner.svg" style=" background-color: #fff; border-radius: 50%;">
-<!--
-.
--->
-
-<h1 align="center"> Social Media </h1>
+<h3 align="center"> Hi there  </h3>
 <div style="justify-content: center;">
     <a target="_blank" href="https://www.linkedin.com/in/nicolas-vycas/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" style="background-color: #fff; border-radius: 50%;"> </a>
     <a target="_blank" href="https://twitter.com/NicolasVycas"> <img src="https://img.icons8.com/color/48/000000/twitter.png"style="background-color: #fff; border-radius: 50%;"> </a>

@@ -40,6 +40,10 @@
             <a href="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
                 <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299&width=400" width="100%">
             </a>
+             <br/><br/>
+            <div align="center">
+                 <!-- lastfm -->
+            </div>
             <br/><br/>
             <div align="center">
                 <img src="https://github.com/user-attachments/assets/3ac83176-dd83-4d40-857b-b1f9a6d25226" width="90%" style="border-radius: 10px;">

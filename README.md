@@ -1,25 +1,25 @@
-<table border="0" width="100%">
+<table border="none" width="100%">
     <tr>
         <td width="50%" valign="top">
             <br />
             <div align="center">
                 <img
                     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tomast1337&theme=github_dark"
-                    width="80%" alt="Top Languages">
+                    width="100%" alt="Top Languages">
             </div>
             <br />
             <br />
             <div align="center">
                 <img
                     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tomast1337&theme=github_dark"
-                    width="80%" alt="Productive Time">
+                    width="100%" alt="Productive Time">
             </div>
             <br />
             <br />
             <div align="center">
                 <img
                     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tomast1337&theme=github_dark"
-                    width="80%" alt="Profile Stats">
+                    width="100%" alt="Profile Stats">
             </div>
         </td>
         <td width="50%" valign="top">
@@ -28,7 +28,7 @@
                 <a href="https://spotify-recently-played-readme.vercel.app/api?user=12152275299">
                     <img
                         src="https://spotify-recently-played-readme.vercel.app/api?user=12152275299&width=400"
-                        width="80%" alt="Spotify">
+                        width="100%" alt="Spotify">
                 </a>
             </div>
             <br />
@@ -36,7 +36,7 @@
             <div align="center">
                 <img
                     src="https://github.com/user-attachments/assets/3ac83176-dd83-4d40-857b-b1f9a6d25226"
-                    width="80%" style="border-radius: 10px;" alt="Decoration">
+                    width="100%" style="border-radius: 10px;" alt="Decoration">
                 <br />
             </div>
             <br />

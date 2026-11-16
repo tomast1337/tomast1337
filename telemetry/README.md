@@ -8,7 +8,9 @@ model.ts    the record, and what derives from it (streaks, heat levels)
 cards.ts    record → GlyphEngine programs (main() draws the data, post() the words)
 headless.ts program → one frame, no screen
 svg.ts      frame → SVG (blocks as rects, box lines as strokes, the rest as text)
-main.ts     glue: record → one SVG per card
+lastfm.ts   Last.fm         → top albums of the month
+collage.ts  albums          → albums.jpg (real covers, 6 × 2)
+main.ts     glue: record → one SVG per card, plus the collage
 ```
 
 ```sh

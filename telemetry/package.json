@@ -8,7 +8,8 @@
         "check": "tsc --noEmit -p ."
     },
     "dependencies": {
-        "@glyph-engine/core": "^0.2.0"
+        "@glyph-engine/core": "^0.2.0",
+        "sharp": "^0.35.5"
     },
     "devDependencies": {
         "@types/bun": "latest",

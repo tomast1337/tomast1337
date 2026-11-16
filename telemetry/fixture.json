@@ -1548,5 +1548,83 @@
   30,
   35,
   28
- ]
+ ],
+ "music": {
+  "user": "example",
+  "period": "1month",
+  "albums": [
+   {
+    "name": "Night Signals",
+    "artist": "Placeholder Band",
+    "plays": 40,
+    "image": null
+   },
+   {
+    "name": "Low Tide",
+    "artist": "Sample Artist",
+    "plays": 37,
+    "image": null
+   },
+   {
+    "name": "Glass Rooms",
+    "artist": "The Fixtures",
+    "plays": 34,
+    "image": null
+   },
+   {
+    "name": "Northern Static",
+    "artist": "Demo Ensemble",
+    "plays": 31,
+    "image": null
+   },
+   {
+    "name": "Paper Engines",
+    "artist": "Mock Orchestra",
+    "plays": 28,
+    "image": null
+   },
+   {
+    "name": "Slow Light",
+    "artist": "Example Trio",
+    "plays": 25,
+    "image": null
+   },
+   {
+    "name": "Ferrous",
+    "artist": "Stub",
+    "plays": 22,
+    "image": null
+   },
+   {
+    "name": "Undertow",
+    "artist": "Lorem Ipsum",
+    "plays": 19,
+    "image": null
+   },
+   {
+    "name": "Vilnius at 4am",
+    "artist": "Test Pattern",
+    "plays": 16,
+    "image": null
+   },
+   {
+    "name": "Copacabana Loop",
+    "artist": "Dummy Data",
+    "plays": 13,
+    "image": null
+   },
+   {
+    "name": "Missing Cover",
+    "artist": "No Artwork",
+    "plays": 10,
+    "image": null
+   },
+   {
+    "name": "Also Missing",
+    "artist": "Placeholder Band",
+    "plays": 7,
+    "image": null
+   }
+  ]
+ }
 }

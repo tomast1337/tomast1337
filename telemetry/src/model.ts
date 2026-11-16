@@ -27,6 +27,20 @@ export interface Telemetry {
     calendar: Day[]; // oldest first, contiguous, ends today
     languages: Language[]; // most commits first
     hours: number[]; // 24 entries: commits authored in each local hour
+    music?: Music; // absent when Last.fm is not configured
+}
+
+export interface Music {
+    user: string; // Last.fm user name
+    period: string; // Last.fm period: 7day, 1month, 3month…
+    albums: Album[]; // most played first
+}
+
+export interface Album {
+    name: string;
+    artist: string;
+    plays: number;
+    image: string | null; // cover URL, the largest Last.fm has
 }
 
 // -- derived values: pure functions of the record ------------------------------

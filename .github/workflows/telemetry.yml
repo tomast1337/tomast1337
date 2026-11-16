@@ -36,6 +36,9 @@ jobs:
                   # private contributions; without it, public ones only.
                   GH_TOKEN: ${{ secrets.TELEMETRY_TOKEN || github.token }}
                   TELEMETRY_TZ: America/Sao_Paulo
+                  # The albums collage: skipped unless both are set
+                  LASTFM_USER: ${{ vars.LASTFM_USER }}
+                  LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
             - name: Publish to the telemetry branch
               working-directory: telemetry/out
               env:

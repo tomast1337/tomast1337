@@ -1,0 +1,49 @@
+# Renders the telemetry cards with GlyphEngine and publishes them on the
+# `telemetry` branch: one commit, replaced on every run, so main stays clean.
+name: telemetry
+
+on:
+    schedule:
+        - cron: '23 6 * * *' # daily, 03:23 in Rio
+    workflow_dispatch:
+    push:
+        branches: [main]
+        paths: ['telemetry/**', '.github/workflows/telemetry.yml']
+
+permissions:
+    contents: write
+
+concurrency:
+    group: telemetry
+    cancel-in-progress: true
+
+jobs:
+    render:
+        runs-on: ubuntu-latest
+        defaults:
+            run:
+                working-directory: telemetry
+        steps:
+            - uses: actions/checkout@v4
+            - uses: oven-sh/setup-bun@v2
+            - run: bun install --frozen-lockfile
+            - run: bun run check
+            - name: Render
+              run: bun src/main.ts --out out
+              env:
+                  GH_LOGIN: ${{ github.repository_owner }}
+                  # A fine-grained token with read access to your repositories adds
+                  # private contributions; without it, public ones only.
+                  GH_TOKEN: ${{ secrets.TELEMETRY_TOKEN || github.token }}
+                  TELEMETRY_TZ: America/Sao_Paulo
+            - name: Publish to the telemetry branch
+              working-directory: telemetry/out
+              env:
+                  REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git
+              run: |
+                  git init -q -b telemetry
+                  git config user.name 'github-actions[bot]'
+                  git config user.email '41898283+github-actions[bot]@users.noreply.github.com'
+                  git add -A
+                  git commit -q -m "telemetry: $(date -u +%F)"
+                  git push -q -f "$REMOTE" telemetry
